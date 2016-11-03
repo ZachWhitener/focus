@@ -1,0 +1,21 @@
+
+.__focus {
+  box-shadow: 0 0 0 99999px rgba(0, 0, 0, .95);
+  height: 500px;
+  width: 50%;
+  position: fixed;
+  background: transparent;
+  left: 25%;
+  top: 200px;
+  z-index: 999999;
+}
+
+.__focus-exit {
+  padding: 20px;
+  font-size: 20px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: transparent;
+  border: 1px solid rgba(0,0,0,.95);
+}
