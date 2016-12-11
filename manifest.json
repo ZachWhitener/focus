@@ -1,9 +1,9 @@
 {
   "name": "Focus",
-  "description": "Focus on reading articles better",
+  "description": "Easily focus on reading articles by eliminating distractions and focusing on what matters.",
   "version": "0.1",
   "manifest_version": 2,
-  "icons": { "128": "focus.png"},
+  "icons": { "512": "focus512.png", "128": "focus128.png", "48": "focus48.png", "16": "focus16.png"},
   "browser_action": {
     "default_popup": "popup.html"
   },

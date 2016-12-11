@@ -7,7 +7,7 @@
   background: transparent;
   left: 25%;
   top: 200px;
-  z-index: 999999;
+  z-index: 999999999999;
 }
 
 .__focus-exit {
